@@ -1,10 +1,10 @@
 # 📝 Notes AI | Videos Summarized
 
-Notes AI s a web application built with Streamlit and LangChain that provides concise summaries of YouTube videos. Simply input the video link and specify the number of lines for the summary, and the application will do the rest. This tool is perfect for quickly grasping the content of videos without watching them in their entirety.
+Notes AI is a web application built with Streamlit and LangChain that provides concise summaries of YouTube videos. Input the video link and specify the number of lines for the summary; the application will do the rest. This tool is perfect for quickly grasping video content without watching it.
 
 ## Features
 
-- **Video Link Input**: Users can input the link of the YouTube video they want to summarize.
+- **Video Link Input**: Users can input the YouTube video link they want to summarize.
 - **Summary Length Customization**: Specify the number of lines for the summary to tailor it to your needs.
 - **Quick Summarization**: Get a concise summary of the video content in just a few seconds.
 - **User-Friendly Interface**: The application is designed to be intuitive and easy to use.
@@ -52,4 +52,4 @@ Open your web browser and go to `http://localhost:8501` to use the application.
 Contributions are welcome! If you have a feature request or a bug report, please open a new issue. If you want to contribute code, please open a pull request.
 
 ## Project Link: 
-Live Link: 
+Live Link: https://notes-ai.streamlit.app
