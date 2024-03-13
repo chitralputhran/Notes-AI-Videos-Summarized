@@ -44,7 +44,9 @@ streamlit run app.py
 Open your web browser and go to `http://localhost:8501` to use the application.
 
 ## Screenshots
+![s1](https://github.com/chitralputhran/Notes-AI-Videos-Summarized/assets/31520972/18c94820-8e15-4380-9d92-bb715d109e61)
 
+![s2](https://github.com/chitralputhran/Notes-AI-Videos-Summarized/assets/31520972/166ad8bf-14cd-4138-9fc3-42b2d7a9373d)
 
 
 ## Contributing
